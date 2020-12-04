@@ -8,4 +8,3 @@ I defended my Ph.D. Degree at the University of Toledo on May 29, 2012. For my P
 Contact Me
 
 jthomas@clarkson.edu
-https://www.clarkson.edu/people/joshua-thomas
