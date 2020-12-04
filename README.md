@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+#Joshua Thomas
 
-You can use the [editor on GitHub](https://github.com/thomasjoshd/thomasjoshd.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+##About Me
+I am currently an assistant professor at Clarkson University where I teach introductory calculus-based physics, introductory astronomy, and introductory astrophysics. I am also the director of Clarkson's Reynolds Observatory.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I defended my Ph.D. Degree at the University of Toledo on May 29, 2012. For my Ph.D. I studied the post-AGB star at the heart of the Red Rectangle nebula. The next phase of my research on the Red Rectangle involves a radiative transfer model of the Red Rectangle nebula. My most active research at the moment has been setting up an LHIRES III spectrograph and photometric setup at Clarkson's Reynolds Observatory. Current projects involve a 1-day binary star, LS4948, and a Wolf-Rayet star WR 140. I have also conducted research in observational spectroscopy, laboratory astrophysics and atomic physics.
 
-### Markdown
+Contact Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thomasjoshd/thomasjoshd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+jthomas@clarkson.edu
+https://www.clarkson.edu/people/joshua-thomas
