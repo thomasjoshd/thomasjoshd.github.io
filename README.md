@@ -1,4 +1,4 @@
-#Joshua Thomas
+##Joshua Thomas
 
 ##About Me
 I am currently an assistant professor at Clarkson University where I teach introductory calculus-based physics, introductory astronomy, and introductory astrophysics. I am also the director of Clarkson's Reynolds Observatory.
