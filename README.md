@@ -1,6 +1,6 @@
 # Joshua Thomas
 
-<img src="https://www.clarkson.edu/sites/default/files/styles/large/public/person-portrait/2017-09/Joshua%20Thomas.jpg?itok=B0RPWpNG" width="200">
+<img src="JThomas.jpg" width="100">
 
 ## About Me
 I am currently an assistant professor at <a href="https://www.clarkson.edu/">Clarkson University</a> where I teach introductory calculus-based physics, introductory astronomy, and introductory astrophysics. I am also the director of Clarkson's Reynolds Observatory.  My faculty page can be found <a href="https://www.clarkson.edu/people/joshua-thomas">here</a>.
