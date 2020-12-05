@@ -11,7 +11,11 @@ Other research interests lie in using image analysis and python to solve problem
 
 I am also involved in a New York State Ed. funded STEM outreach grant called <a href="https://sites.clarkson.edu/impetus/">IMPETUS</a>.
 
-CV
-Research
+Curriculum Vitae
+
+PySplot
+
+<a href="http://www.youtube.com/user/JoshuaDThomas">YouTube</a>
+
 
 Last Updated: 05-DEC-2020
