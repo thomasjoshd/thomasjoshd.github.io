@@ -15,6 +15,8 @@ Curriculum Vitae
 
 PySplot
 
+<a href="Volume_SurfaceArea_Eggs">Volume/Surface Area of Eggs</a> (or other spheroidal objects)
+
 <a href="http://www.youtube.com/user/JoshuaDThomas">YouTube</a>
 
 
