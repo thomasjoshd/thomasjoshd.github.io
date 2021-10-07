@@ -16,7 +16,7 @@ I am also involved in a New York State Ed. funded STEM outreach grant called <a 
 
 Curriculum Vitae
 
-<a href="pysplot">PySplot</a>
+<a href="https://github.com/thomasjoshd/pysplot/blob/master/README.md">PySplot</a>
 
 <a href="Volume_SurfaceArea_Eggs">Volume/Surface Area of Eggs</a> (or other spheroidal objects)
 
