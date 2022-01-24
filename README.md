@@ -10,7 +10,7 @@ I defended my Ph.D. at the University of Toledo on May 29, 2012. I studied the p
 
 Other research interests lie in using image analysis and python to solve problems.  This has resulted in fruitful collaborations studying dinosaur bones and eggs.
 
-I am also involved in a New York State Ed. funded STEM outreach grant called <a href="https://sites.clarkson.edu/impetus/">IMPETUS</a>.
+I was formerly involved in a New York State Ed. funded STEM outreach grant called <a href="https://sites.clarkson.edu/impetus/">IMPETUS</a>.
 
 # Projects and Links
 
