@@ -12,7 +12,7 @@ Other research interests lie in using image analysis and python to solve problem
 
 # Projects and Links
 
-Curriculum Vitae
+<a href="JT_CV_20240401.pdf">Curriculum Vitae</a>
 
 <a href="https://github.com/thomasjoshd/pysplot">PySplot</a>
 
