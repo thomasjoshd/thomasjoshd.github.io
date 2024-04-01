@@ -14,9 +14,9 @@ Other research interests lie in using image analysis and python to solve problem
 
 Curriculum Vitae
 
-<a href="pysplot">PySplot</a>
+<a href="https://github.com/thomasjoshd/pysplot">PySplot</a>
 
-<a href="Volume_SurfaceArea_Eggs">Volume/Surface Area of Eggs</a> (or other spheroidal objects)
+<a href="https://github.com/thomasjoshd/Volume_SurfaceArea_Eggs">Volume/Surface Area of Eggs</a> (or other spheroidal objects)
 
 <a href="http://www.youtube.com/user/JoshuaDThomas">YouTube</a>
 
